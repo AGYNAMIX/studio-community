@@ -1,0 +1,22 @@
+[
+    {
+        "version": 1,
+        "lang": "de",
+        "path": "invoicer_sandbox_de.db.gz"
+    },
+    {
+        "version": 1,
+        "lang": "en",
+        "path": "invoicer_sandbox_en.db.gz"
+    }
+    {
+        "version": 3,
+        "lang": "de",
+        "path": "invoicer_sandbox_v3_de.db.gz"
+    },
+    {
+        "version": 3,
+        "lang": "en",
+        "path": "invoicer_sandbox_v3_en.db.gz"
+    }
+]
