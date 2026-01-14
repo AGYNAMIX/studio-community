@@ -12,11 +12,21 @@
     {
         "version": 3,
         "lang": "de",
-        "path": "invoicer_sandbox_v3_de.db.gz"
+        "path": "invoicer_sandbox_v3_de.zip"
     },
     {
         "version": 3,
         "lang": "en",
-        "path": "invoicer_sandbox_v3_en.db.gz"
+        "path": "invoicer_sandbox_v3_en.zip"
+    },
+    {
+        "version": 5,
+        "lang": "de",
+        "path": "invoicer_sandbox_v5_de.zip"
+    },
+    {
+        "version": 5,
+        "lang": "en",
+        "path": "invoicer_sandbox_v5_en.zip"
     }
 ]
